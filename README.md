@@ -1,6 +1,5 @@
 # paleblue-2032 / kanon
-### I'm a student in NIT, Toyama College E Dept.  
-### I use NixOS, and I live in the terminal with emacs.   
+### I'm a student in NIT, Toyama College E Dept. I use NixOS, and I live in the terminal with emacs.   
 ## Favorite Languages
 [![Favorite Languages](https://skillicons.dev/icons?i=js,py,nix)](https://skillicons.dev)
 ## Status
