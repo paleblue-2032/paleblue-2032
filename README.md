@@ -3,6 +3,6 @@
 ## Favorite Languages
 [![Favorite Languages](https://skillicons.dev/icons?i=c,py,nix)](https://skillicons.dev)
 ## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paleblue-2032)](https://github.com/frost-1256/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paleblue-2032)](https://github.com/paleblue-2032/github-readme-stats)  
 ## amazarashi
 Hesitate not—write it in. That pain is our common tongue.
