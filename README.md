@@ -1,7 +1,7 @@
 # paleblue-2032 / kanon
 ### I'm a student in NIT, Toyama College E Dept. I use NixOS, and I live in the terminal with emacs.   
 ## Favorite Languages
-[![Favorite Languages](https://skillicons.dev/icons?i=c,py,nix)](https://skillicons.dev)
+[![Favorite Languages](https://skillicons.dev/icons?i=ts,rs,nix)](https://skillicons.dev)
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paleblue-2032)](https://github.com/paleblue-2032/github-readme-stats)  
 ## amazarashi
